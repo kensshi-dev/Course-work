@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/72833b8f-d2cc-4d71-96d2-090449fdca8d)
 # Voting System (CLI Java App)
 
 ## Student Name
@@ -101,6 +101,7 @@ Activity log:
 ### Screenshots
 Include screenshots of:
 - Menu interface
+- ![Screenshot_2025-04-16_15_39_26](https://github.com/user-attachments/assets/e5f79d63-63eb-4de1-978d-f573fe5b9e37)
 - Adding a ballot
 - Viewing ballots
 - Updating a ballot
