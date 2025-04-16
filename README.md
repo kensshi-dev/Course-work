@@ -103,10 +103,18 @@ Include screenshots of:
 - Menu interface
 - ![Screenshot_2025-04-16_15_39_26](https://github.com/user-attachments/assets/e5f79d63-63eb-4de1-978d-f573fe5b9e37)
 - Adding a ballot
+- ![Screenshot_2025-04-16_15_45_17](https://github.com/user-attachments/assets/97904456-e6eb-445c-baf2-b21dfaf584e2)
 - Viewing ballots
+- ![Screenshot_2025-04-16_15_46_55](https://github.com/user-attachments/assets/ce3a9a50-b361-4c6c-8d17-68266ef3eef2)
 - Updating a ballot
+- ![Screenshot_2025-04-16_15_48_19](https://github.com/user-attachments/assets/c5dbf6b5-aa8c-48dc-a8b8-44f5daaace17)
 - Generating a report
+- ![Screenshot_2025-04-16_15_49_27](https://github.com/user-attachments/assets/ea79794f-bf25-4d96-b859-6ab152f0431c)
 - Log and ballot file contents
+- ![Screenshot_2025-04-16_15_50_46](https://github.com/user-attachments/assets/4c191091-7ffd-4d05-bca2-a14b3231d400)
+- ![Screenshot_2025-04-16_15_51_59](https://github.com/user-attachments/assets/e3169259-527d-43a7-b8da-81ab572e1ffa)
+
+
 
 ## Code Quality
 - Code is modular and separated into logical components.
