@@ -2,7 +2,7 @@
 # Voting System (CLI Java App)
 
 ## Student Name
-**[Your Full Name Here]**
+**Azim Sopuev**
 
 ## Project Title
 Voting Ballot Management System (Command-Line Interface)
