@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/72833b8f-d2cc-4d71-96d2-090449fdca8d)
 # Voting System (CLI Java App)
 
 ## Student Name
